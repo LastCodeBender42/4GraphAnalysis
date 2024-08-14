@@ -1,0 +1,7 @@
+setup.py
+4GraphAnalysis.egg-info/PKG-INFO
+4GraphAnalysis.egg-info/SOURCES.txt
+4GraphAnalysis.egg-info/dependency_links.txt
+4GraphAnalysis.egg-info/entry_points.txt
+4GraphAnalysis.egg-info/requires.txt
+4GraphAnalysis.egg-info/top_level.txt
